@@ -8,9 +8,10 @@
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about KivyMD
 - 📫 How to reach me: [mail](maminirinaandria17@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm farmer
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AinaMaminirina18&show_icons=true&locale=en&layout=compact" alt="AinaMaminirina18" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AinaMaminirina18&show_icons=true&locale=en" alt="AinaMaminirina18" /></p>
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=AinaMaminirina18&row=4&column=4&margin-w=15&margin-h=15&no-frame=true&theme=flat"  alt="AinaMaminirina18" />
 </p>
