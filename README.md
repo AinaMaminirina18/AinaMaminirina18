@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on my own project
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about KivyMD
-- 📫 How to reach me: [mail](maminirinaandria17@gmail.com)
+- 📫 How to reach me: [My Email](maminirinaandria17@gmail.com)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AinaMaminirina18&show_icons=true&locale=en&layout=compact" alt="AinaMaminirina18" /></p>
 
