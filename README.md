@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on my own project
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning ElectronJS and NodeJs
 - 💬 Ask me about KivyMD
 - 📫 How to reach me: [My Email](maminirinaandria17@gmail.com)
 
