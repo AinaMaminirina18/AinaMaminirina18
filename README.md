@@ -5,8 +5,8 @@
 
 
 - 🔭 I’m currently working on my own project
-- 🌱 I’m currently learning ElectronJS and NodeJs
-- 💬 Ask me about KivyMD
+- 🌱 I’m currently learning ReactJS and Flutter
+- 💬 Ask me about Python 
 - 📫 How to reach me: [My Email](maminirinaandria17@gmail.com)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AinaMaminirina18&show_icons=true&locale=en&layout=compact" alt="AinaMaminirina18" /></p>
