@@ -9,9 +9,7 @@
 - 💬 Ask me about Python 
 - 📫 How to reach me: [My Email](maminirinaandria17@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AinaMaminirina18&show_icons=true&locale=en&layout=compact" alt="AinaMaminirina18" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AinaMaminirina18&show_icons=true&locale=en" alt="AinaMaminirina18" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AinaMaminirina18&show_icons=true&locale=en&layout=compact" alt="
 <p align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=AinaMaminirina18&row=4&column=4&margin-w=15&margin-h=15&no-frame=true&theme=flat"  alt="AinaMaminirina18" />
 </p>
