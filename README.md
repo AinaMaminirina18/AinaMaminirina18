@@ -9,6 +9,3 @@
 - 💬 Ask me about Python 
 - 📫 How to reach me: [My Email](maminirinaandria17@gmail.com)
 
-<p align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=AinaMaminirina18&row=4&column=4&margin-w=15&margin-h=15&no-frame=true&theme=flat"  alt="AinaMaminirina18" />
-</p>
